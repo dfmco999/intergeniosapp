@@ -22,6 +22,7 @@
 		39E5CDEF1AB3DE1A0053D4EE /* MenuUsuarioViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E5CDEE1AB3DE1A0053D4EE /* MenuUsuarioViewController.m */; };
 		39E5CDF11AB3FF1E0053D4EE /* imgPersonaSinFoto.png in Resources */ = {isa = PBXBuildFile; fileRef = 39E5CDF01AB3FF1E0053D4EE /* imgPersonaSinFoto.png */; };
 		39E5CDF71AB45F1C0053D4EE /* MnuUsuarioTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E5CDF61AB45F1C0053D4EE /* MnuUsuarioTabBarViewController.m */; };
+		39E5CE871AB4A0B10053D4EE /* PerfilViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E5CE861AB4A0B10053D4EE /* PerfilViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,8 @@
 		39E5CDF01AB3FF1E0053D4EE /* imgPersonaSinFoto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imgPersonaSinFoto.png; sourceTree = "<group>"; };
 		39E5CDF51AB45F1C0053D4EE /* MnuUsuarioTabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MnuUsuarioTabBarViewController.h; sourceTree = "<group>"; };
 		39E5CDF61AB45F1C0053D4EE /* MnuUsuarioTabBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MnuUsuarioTabBarViewController.m; sourceTree = "<group>"; };
+		39E5CE851AB4A0B10053D4EE /* PerfilViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PerfilViewController.h; sourceTree = "<group>"; };
+		39E5CE861AB4A0B10053D4EE /* PerfilViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PerfilViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -175,6 +178,8 @@
 				39E5CDEE1AB3DE1A0053D4EE /* MenuUsuarioViewController.m */,
 				39E5CDF51AB45F1C0053D4EE /* MnuUsuarioTabBarViewController.h */,
 				39E5CDF61AB45F1C0053D4EE /* MnuUsuarioTabBarViewController.m */,
+				39E5CE851AB4A0B10053D4EE /* PerfilViewController.h */,
+				39E5CE861AB4A0B10053D4EE /* PerfilViewController.m */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -285,6 +290,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				39E5CE871AB4A0B10053D4EE /* PerfilViewController.m in Sources */,
 				39E5CDF71AB45F1C0053D4EE /* MnuUsuarioTabBarViewController.m in Sources */,
 				39E5CDC01AB3C53A0053D4EE /* ViewController.m in Sources */,
 				39E5CDBD1AB3C53A0053D4EE /* AppDelegate.m in Sources */,
